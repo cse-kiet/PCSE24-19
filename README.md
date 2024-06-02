@@ -51,3 +51,7 @@ Using SMOTE to handle class imbalance in fraud detection improves model performa
 ## References
 
 - Final project report with detailed implementation and results.
+
+## Dataset
+
+- https://drive.google.com/file/d/1Tt2SxZaHkpCkNTBCzgMrP6LkHcmcD7GO/view?usp=sharing
